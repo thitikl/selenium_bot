@@ -1,0 +1,6 @@
+/.idea
+/.venv
+
+/driver/*
+!driver/.gitkeep
+/booking/constant.py
